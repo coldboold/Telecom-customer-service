@@ -1,0 +1,6 @@
+analysis\tool\AnalysisTextTool.class
+analysis\mapper\AnalysisTextMapper.class
+analysis\reducer\AnalysisTextReducer.class
+analysis\io\MySQLRecordWriter.class
+analysis\io\MySQLOutputFormat.class
+analysis\AnalysisData.class

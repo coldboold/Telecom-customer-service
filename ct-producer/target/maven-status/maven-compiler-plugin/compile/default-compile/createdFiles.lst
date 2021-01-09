@@ -1,0 +1,6 @@
+producer\bean\Contact.class
+producer\bean\Calllog.class
+producer\BootStrap.class
+producer\io\LocalFileDataOut.class
+producer\io\LocalFileDataIn.class
+producer\bean\LocalFileProducer.class
